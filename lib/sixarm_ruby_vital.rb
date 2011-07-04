@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm Ruby Gem: Vital
@@ -9,7 +11,7 @@ License:: LGPL, GNU Lesser General Public License
 
 Vital has several methods to help with Ruby's typical logger.
 
-The methods automatically prepend helpful debugging information 
+The methods automatically prepend helpful debugging information
 to each log message:
 
   - timestamp
@@ -61,7 +63,7 @@ module Vital
   # Example:
   #   vital_open("hello")
   #   => logger.info 2010-12-31 class_name method_name process_info ... -hello
-  
+
   def vital_shut(msg='',ops={})
     vital('-'+msg,ops.merge({:method_name=>method_name_of_caller}))
   end
