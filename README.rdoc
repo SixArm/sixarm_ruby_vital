@@ -1,10 +1,8 @@
+SixArm.com » Ruby » Vital signs logger for Ruby
 
-= SixArm Ruby Gem: Vital
+Author:: Joel Parker Henderson, joel@joelparkerhenderson.com
+Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
 
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
 
 Vital has several methods to help with Ruby's typical logger.
 
