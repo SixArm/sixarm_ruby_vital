@@ -1,28 +1,6 @@
 # -*- coding: utf-8 -*-
-
 =begin rdoc
-
-= SixArm Ruby Gem: Vital
-
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
-
-Vital has several methods to help with Ruby's typical logger.
-
-The methods automatically prepend helpful debugging information
-to each log message:
-
-  - timestamp
-  - class name
-  - method name
-  - process information
-  - the original message
-
-The methods log using tab separated values, which make the
-log files easier to parse in our other tools (i.e. awk).
-
+Please see README
 =end
 
 require 'sixarm_ruby_ramp'

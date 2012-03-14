@@ -1,6 +1,8 @@
+# -*- coding: utf-8 -*-
+require 'test/unit'
+require 'minitest/autorun'
 require 'simplecov'
 SimpleCov.start
-require 'test/unit'
 require 'sixarm_ruby_vital'
 
 class Testing < Test::Unit::TestCase
@@ -13,4 +15,3 @@ class Testing < Test::Unit::TestCase
  end
 
 end
-
