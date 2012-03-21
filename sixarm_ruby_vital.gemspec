@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_vital"
-  s.summary           = "SixArm Ruby Gem: Vital class for debugging, logging, profiling, etc."
+  s.summary           = "SixArm.com » Ruby » Vital class for debugging, logging, profiling, etc."
   s.version           = "1.0.2"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
