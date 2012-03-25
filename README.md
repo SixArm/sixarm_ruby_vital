@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> Vital signs logger for Ruby
 
-* Docs: <http://sixarm.com/sixarm_ruby_vital/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_vital/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_vital>
 * Repo: <http://github.com/sixarm/sixarm_ruby_vital>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
