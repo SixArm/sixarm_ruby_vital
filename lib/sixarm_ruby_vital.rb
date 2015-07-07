@@ -3,7 +3,7 @@
 Please see README
 =end
 
-require 'sixarm_ruby_ramp'
+require "sixarm_ruby_ramp"
 
 module Vital
 
