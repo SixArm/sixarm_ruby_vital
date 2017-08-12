@@ -1,4 +1,4 @@
-SixArm.com → Ruby → <br> Vital signs logger for Ruby
+# SixArm.com → Ruby → <br> Vital signs logger for Ruby
 
 * Doc: <http://sixarm.com/sixarm_ruby_vital/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_vital>
