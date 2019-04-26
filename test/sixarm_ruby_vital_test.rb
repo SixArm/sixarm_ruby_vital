@@ -4,7 +4,7 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_vital"
 
-class Testing < Test::Unit::TestCase
+class Testing < Minitest::Test
 
  def test_vital
   ps=Process.ps
