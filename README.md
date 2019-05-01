@@ -1,8 +1,17 @@
 # SixArm.com → Ruby → <br> Vital signs logger for Ruby
 
+<!--header-open-->
+
+[![Gem Version](https://badge.fury.io/rb/sixarm_ruby_vital.svg)](http://badge.fury.io/rb/sixarm_ruby_vital)
+[![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_vital.png)](https://travis-ci.org/SixArm/sixarm_ruby_vital)
+[![Code Climate](https://api.codeclimate.com/v1/badges/df3a9108908ca04f3354/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_vital/maintainability)
+
+* Git: <https://github.com/SixArm/sixarm_ruby_vital>
 * Doc: <http://sixarm.com/sixarm_ruby_vital/doc>
-* Gem: <http://rubygems.org/gems/sixarm_ruby_vital>
-* Repo: <http://github.com/sixarm/sixarm_ruby_vital>
+* Gem: <https://rubygems.org/gems/sixarm_ruby_vital>
+* Contact: Joel Parker Henderson, <joel@sixarm.com>
+* Project: [changes](CHANGES.md), [license](LICENSE.md), [contributing](CONTRIBUTING.md).
+
 <!--header-shut-->
 
 
@@ -10,7 +19,7 @@
 
 Vital has several methods to help with Ruby's typical logger.
 
-The methods automatically prepend helpful debugging information 
+The methods automatically prepend helpful debugging information
 to each log message:
 
   * timestamp
